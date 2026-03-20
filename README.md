@@ -1,5 +1,5 @@
-[README.md](https://github.com/user-attachments/files/26146716/README.md)
-# Muscle-Mechanics-
+[README.md](https://github.com/user-attachments/files/26146723/README.md)
+# Muscle-Mechanics
 ## 📌 This Project is a simple gym management system written in Python
 ## 🧩 Features of the project
 * Add and manage subscription plans
